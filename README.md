@@ -5,4 +5,5 @@ Este repositorio lo creamos para el taller de Git y Github ;)
 - Pueden forkearlo, hacerle cualquier cambio
 - Vamos, haganse contribuidores
 
+> Cambio no deseadi, lo arruinamos
 > Este repositorio fue creado con amor por Miguel y Roberto 
